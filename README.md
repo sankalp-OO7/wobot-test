@@ -9,7 +9,7 @@ The application fetches camera data from the provided staging API and allows pag
 
 🔗 **Hosted Link:** <YOUR_DEPLOY_URL>
 
-📦 **GitHub Repository:** <YOUR_REPO_URL>
+📦 **GitHub Repository:** https://github.com/sankalp-OO7/wobot-test
 
 ---
 
