@@ -7,7 +7,7 @@ The application fetches camera data from the provided staging API and allows pag
 
 ## 🚀 Live Demo
 
-🔗 **Hosted Link:** <YOUR_DEPLOY_URL>
+🔗 **Hosted Link:** https://wobot-test.vercel.app/
 
 📦 **GitHub Repository:** https://github.com/sankalp-OO7/wobot-test
 
